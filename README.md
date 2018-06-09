@@ -1,6 +1,6 @@
 # My-Currency:
 
-This is a Currency Converter Application developed using Python. I have used API from https://fixer.io,
+This is a Currency Conversion Application developed using Python. I have used API from https://fixer.io,
 this API gives the latest currency conversion rates. I have also used this API for getting many other details 
 like historical currency conversion rates, to compare two different currencies and to get the Currency Codes 
 and countries corresponding to the currencies.  
