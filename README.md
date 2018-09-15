@@ -20,5 +20,5 @@ in the application. I have used TKinter Library for GUI.
 
 ## Future Scope:
 
-1. This project can be extended using Data Analytics which helps predict the future currency rates.
+1. This project can be extended using Data Analytics to predict the future currency rates.
 
